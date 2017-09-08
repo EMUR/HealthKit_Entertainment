@@ -7,4 +7,6 @@ the goal by the end of the day, the egg is gone and replaced by another one the 
 The purpose of the app is to encourage people to run/burn calories, and since the user would ideally have a curiosity of what animal
 is in this egg, he/she will burn the target calories to obtain it
 
+## Screenshot
+
   ![image of project](https://i.imgur.com/HNaNoqm.png)
